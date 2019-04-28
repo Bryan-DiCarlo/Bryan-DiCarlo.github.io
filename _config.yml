@@ -1,11 +1,11 @@
 # Site settings
 author: Bryan DiCarlo
-title: 
+title: The Science of Data
 header-img: img/home-bg.png
 email: bryanbdicarlo@gmail.com
 copyright_name: Bryan DiCarlo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Art and Science of Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Bryan-DiCarlo
