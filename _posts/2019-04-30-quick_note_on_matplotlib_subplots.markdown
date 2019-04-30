@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Quick Note on Matplotlib Subplots"
-date:       2019-04-30 23:32:30 +0000
+date:       2019-04-30 19:32:31 -0400
 permalink:  quick_note_on_matplotlib_subplots
 ---
 
@@ -72,7 +72,7 @@ plt.tight_layout()
 
 
 
-This will produce four subplots side by side.  Hope that helps.  This was useful for me to have it broken down this way when I was first getting started.  There is much more Matplotlib is capable and further refinements to this method you can make.  This is just scratching the surface.  I encourage you to visit the documentation page linked above.
+This will produce four subplots side by side.  Hope that helps.  This was useful for me to have it broken down this way when I was first getting started.  There is much more that Matplotlib is capable of and further refinements to this method you can make.  This is just scratching the surface.  I encourage you to visit the documentation page linked above.
 
 
 
