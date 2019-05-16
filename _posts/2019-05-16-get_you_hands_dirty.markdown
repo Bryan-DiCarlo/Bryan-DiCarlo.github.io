@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Get You Hands Dirty!"
-date:       2019-05-16 14:15:01 +0000
+title:      "Get Your Hands Dirty!"
+date:       2019-05-16 10:15:04 -0400
 permalink:  get_you_hands_dirty
 ---
 
