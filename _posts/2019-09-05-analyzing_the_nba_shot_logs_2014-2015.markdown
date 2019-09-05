@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Analyzing The NBA Shot Logs 2014-2015"
-date:       2019-09-05 20:54:47 +0000
+date:       2019-09-05 16:54:48 -0400
 permalink:  analyzing_the_nba_shot_logs_2014-2015
 ---
 
